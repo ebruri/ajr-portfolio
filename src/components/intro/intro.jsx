@@ -12,11 +12,18 @@ const Intro = () => {
               <div className="i-title-item">Actor</div>
               <div className="i-title-item">Producer</div>
               <div className="i-title-item">Writer</div>
+              <div className="i-title-item">Director</div>
+              <div className="i-title-item">Post Production Coordinator</div>
             </div>
+          </div>
+          <div className="i-desc">
+            Experienced actor. Enthusiastic writer.   
           </div>
         </div>
       </div>
-    <div className="i-right">right</div>
+    <div className="i-right"> 
+      
+    </div>
     </div>
   )
   
