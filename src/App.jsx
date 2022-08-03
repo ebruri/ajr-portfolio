@@ -1,5 +1,7 @@
+import Intro from "./components/intro/intro";
+
 const App = () => {
-  return <div>Andy's Portfolio</div>;
+  return <div><Intro/></div>;
 };
 
 export default App;
