@@ -35,7 +35,9 @@ This website showcases Andrew J Rice's work and has information about his career
 ## Research & Planning Log
 
 Tuesday August 2nd
-* 
+* 19:00 Watch some youtube videos about CSS
+* 21:00 Start a new react app
+* 22:00 Add introduction component - done for the day
 
 Sunday July 24th
 * 20:00 Create react app
