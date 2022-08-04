@@ -34,6 +34,11 @@ This website showcases Andrew J Rice's work and has information about his career
 
 ## Research & Planning Log
 
+
+Wednesday August 3rd
+* 16:00 Add image to the introduction page and polish it up
+* 21:00 Change the image and work on the about me component
+
 Tuesday August 2nd
 * 19:00 Watch some youtube videos about CSS
 * 21:00 Start a new react app
