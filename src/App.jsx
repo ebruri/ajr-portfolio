@@ -1,11 +1,13 @@
-import Intro from "./components/intro/intro";
+import Intro from "./components/intro/Intro";
+import About from "./components/about/About"
 
 const App = () => {
-  return 
+  return (
     <div>
       <Intro/>
       <About/>
-    </div>;
+    </div>
+  )
 };
 
 export default App;

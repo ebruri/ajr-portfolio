@@ -1,11 +1,11 @@
-import Intro from "./components/intro/Intro";
+import "./about.css"
 
-const App = () => {
+const About = () => {
   return (
-    <div>
-      <Intro/>
+    <div className="a">
+      About me
     </div>
   )
 };
 
-export default App;
+export default About;
