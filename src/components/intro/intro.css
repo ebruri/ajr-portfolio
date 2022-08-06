@@ -72,3 +72,9 @@
   transform: translateY(-200px);
 }
 }
+.i-scroll{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  bottom: 20px;
+}
