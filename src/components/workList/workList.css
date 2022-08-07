@@ -1,0 +1,44 @@
+.wl {
+  padding: 50px 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.wl-texts {
+  width: 65%;
+}
+
+.wl-title {
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.wl-desc {
+  margin: 20px 0px;
+}
+
+.wl-list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.w{
+  width: 45%;
+  height: 40vh;
+  margin: 20px 10px;
+  border: 2px solid rgb(243, 242, 242);
+  border-radius: 10px 10px 0px 0px;
+  overflow: hidden;
+}
+
+.w-left{
+
+}
+
+.w-right{
+  
+}
