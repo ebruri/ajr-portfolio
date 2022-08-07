@@ -34,6 +34,13 @@ This website showcases Andrew J Rice's work and has information about his career
 
 ## Research & Planning Log
 
+Saturday August 6th
+* 9:00 Add SVG code for scrolling
+* 12:00 Work on the work list
+* 17:00 Complete work list
+
+Friday August 5th
+* 13:00 Add about me text and image  
 
 Wednesday August 3rd
 * 16:00 Add image to the introduction page and polish it up
