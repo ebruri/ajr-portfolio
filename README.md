@@ -13,7 +13,7 @@
 * NPM
 
 ## Description
-This website showcases Andrew J Rice's work and has information about his career. 
+This website showcases Andrew J Rice's work and has information about his career. The portfolio has 4 different components; intro page, about me page, my work page and a contact page. 
 
 
 ## Component Diagram
@@ -38,6 +38,8 @@ Saturday August 6th
 * 9:00 Add SVG code for scrolling
 * 12:00 Work on the work list
 * 17:00 Complete work list
+* 20:00 Add the contact page
+* 21:00 Last touches
 
 Friday August 5th
 * 13:00 Add about me text and image  
