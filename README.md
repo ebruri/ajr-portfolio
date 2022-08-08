@@ -17,6 +17,7 @@ This website showcases Andrew J Rice's work and has information about his career
 
 
 ![portfolio](src/img/portfolio.jpeg)
+![portfolio2](src/img/portfoliodark.jpeg)
 
 
 ## GitHub Pages
