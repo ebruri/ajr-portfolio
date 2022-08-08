@@ -13,7 +13,7 @@
 * NPM
 
 ## Description
-This website showcases Andrew J Rice's work and has information about his career. The portfolio has 4 different components; intro page, about me page, my work page and a contact page. 
+A portfolio that is designed for Actor/Writer Andrew J Rice to showcase his experience, career and ambitions. The portfolio has 4 different components; intro page, about me page, my work page and a contact page. You can send emails through the contact page. 
 
 
 ![portfolio](src/img/portfolio.jpeg)
