@@ -28,7 +28,7 @@ This website showcases Andrew J Rice's work and has information about his career
 
 * Open Terminal
 * Change the current working directory to the location where you want the cloned directory.
-* Type ``git clone https://github.com/ebruri/bubble-brain``
+* Type ``git clone https://github.com/ebruri/ajr-portfolio``
 * Press enter to create your local clone.
 * Install dependancies for the application by using the command $ ``npm install``
 * Run the application by using the command ``npm run start``

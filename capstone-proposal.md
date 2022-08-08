@@ -6,7 +6,6 @@
 A portfolio that is designed for Actor/Writer Andrew J Rice to showcase his experience, career and ambitions. 
 
 
-
 # List the absolute minimum features the project requires to meet this purpose or goal:
 * Dark mode
 * Receive emails through the contact me page
