@@ -15,7 +15,7 @@ const WorkList = () => {
         <div className="w">
           <div className="w-left">
             <div className="l-container">
-              <h2 className="w-h2">WEST OF THE USU - Pilot Episode</h2>
+              <h2 className="w-h2">WEST OF THE USU</h2>
               <h3 className="w-h3">Showrunner | Writer | 2nd Director</h3>
               <p className="w-p">Episode 1 - “Pilot” Synopsis: The student-run media organization must adjust to its new dynamics on the first day after a merger.</p>
               <span>Full Episode</span>
