@@ -11,6 +11,7 @@ A portfolio that is designed for Actor/Writer Andrew J Rice to showcase his expe
 * Dark mode
 * Receive emails through the contact me page
 * Have 4 different components: Intro, About me, My work, Contact me
+* Mobile friendly page
 
 
 # What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.

@@ -16,7 +16,7 @@
 This website showcases Andrew J Rice's work and has information about his career. The portfolio has 4 different components; intro page, about me page, my work page and a contact page. 
 
 
-## Component Diagram
+![portfolio](src/img/portfolio.jpeg)
 
 
 ## GitHub Pages
